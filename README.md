@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magferah
-- I am interested in data analysis.
+- I am interested in numerical analysis , automata, biotechnology, bioinformatics and agriculture.
 - Currently CSE undergrad.
 
 <!---
